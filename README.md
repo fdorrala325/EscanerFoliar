@@ -14,3 +14,9 @@ Códigos del sistema del dispositivo de escáner foliar para estimar el índice 
   El módulo "LCD" contiene las funciones para escribir en la pantalla LCD mediante el protocolo de comunicación I2C
 
 Nota: Los códigos están escritos para ejecutarse en un RaspberryPi, en el programa "Principal.py" se muestran las librerias necesarias a instalarse en la raspberry. 
+
+
+![area2](https://github.com/fdorrala325/EscanerFoliar/assets/84700425/222ea81a-a4f9-4d1c-9e30-1e3fb4569c49)
+
+![image](https://github.com/fdorrala325/EscanerFoliar/assets/84700425/1d8e17ac-3465-4c3a-bb58-e008c7e1bef1)
+
