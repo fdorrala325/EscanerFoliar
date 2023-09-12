@@ -1,5 +1,5 @@
 # EscanerFoliar
-Códigos del sistema del dispositivo de escáner foliar para estimar el índice área foliar de cultivos de maíz
+Códigos del sistema en el dispositivo de escáner foliar para estimar el índice área foliar de cultivos de maíz
   
   El módulo "Princial.py" contiene el programa principal del sistema, se definen las entras y salidas periféricas y las opciones del escáner. 
   
